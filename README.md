@@ -1,5 +1,5 @@
 
-# RiskLens AI — Contract Risk Intelligence Platform
+# Contract Guard — Contract Risk Intelligence Platform
 
 <div align="center">
 
@@ -541,11 +541,6 @@ Procurement managers need to verify findings. Showing page 5, lines 14–18 with
 
 ---
 
-## 👥 Team
-- Pushpak Shende
-- Nileshwari Gawande
-- Astha Pande
-- Abhishekraj Singh
-- Kanak Agrawal
+
 ---
 
