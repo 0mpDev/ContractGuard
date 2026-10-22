@@ -66,7 +66,7 @@ export default function AppShell({
      className="h-20 w-28 rounded-lg object-contain "
   />
   <span>
-    <span className="block text-2xl font-black text-[var(--ink-blue)]">RiskLens</span>
+    <span className="block text-2xl font-black text-[var(--ink-blue)]">Contract Guard</span>
     <span className="block text-xs font-semibold uppercase tracking-[0.16em] text-slate-500">
       Contract Risk Intelligence
     </span>

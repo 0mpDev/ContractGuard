@@ -31,7 +31,7 @@ export default function LoginPage() {
   className="h-14 w-18 rounded-lg object-contain bg-white p-1"
 />
 <div>
-  <p className="text-3xl font-black">RiskLens AI</p>
+  <p className="text-3xl font-black">Contract Guard</p>
   <p className="text-xs font-bold uppercase tracking-[0.18em] text-blue-100">Contract Risk Intelligence</p>
 </div>
           </div>

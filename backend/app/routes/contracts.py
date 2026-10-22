@@ -361,7 +361,7 @@ def clear_recommendations_cache(
 def model_health():
     return {
         "provider": "Groq",
-        "model": "llama-3.3-70b-versatile",
+        "model": "openai/gpt-oss-120b",
         "api_key_configured": bool(GROQ_API_KEY),
         "status": "configured" if GROQ_API_KEY else "missing_api_key"
     }

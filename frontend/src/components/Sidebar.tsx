@@ -14,7 +14,7 @@ export default function Sidebar({
       {/* LOGO */}
       <div className="mb-12">
         <h1 className="text-4xl font-bold text-blue-700">
-          RiskLens AI
+          Contract Guard
         </h1>
 
         <p className="text-slate-500 mt-2">

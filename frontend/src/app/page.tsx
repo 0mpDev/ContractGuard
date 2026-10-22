@@ -23,7 +23,7 @@ export default function LandingPage() {
   className="h-24 w-30 rounded-lg object-contain"
 />
 <span className="text-left">
-  <span className="block text-2xl font-black text-[var(--ink-blue)]">RiskLens AI</span>
+  <span className="block text-2xl font-black text-[var(--ink-blue)]"> Contract Guard</span>
   <span className="block text-xs font-bold uppercase tracking-[0.18em] text-slate-500">
     Contract Risk Intelligence
   </span>
@@ -47,7 +47,7 @@ export default function LandingPage() {
   Carrier · Contract Intelligence
 </p>
 <h1 className="mt-7 max-w-3xl text-5xl font-black leading-[1.02] text-[var(--ink-blue)] sm:text-6xl">
-  RiskLens AI
+   Contract Guard
 </h1>
 <p className="mt-5 max-w-2xl text-xl font-semibold leading-8 text-slate-600">
   Upload any contract and instantly get AI-powered risk scores, clause analysis, vendor insights, and actionable decisions — faster and smarter.

@@ -130,7 +130,7 @@ Configurable SMTP sending or draft-only mode.
 ### AI / LLM
 | Model | Use Case |
 |-------|---------|
-| `llama-3.3-70b-versatile` | Contract extraction, risk analysis, ambiguity detection, fix recommendations, executive summary |
+| `openai/gpt-oss-120b` | Contract extraction, risk analysis, ambiguity detection, fix recommendations, executive summary |
 | Fallback chain | `llama-3.1-8b-instant` → `gemma2-9b-it` → `mixtral-8x7b-32768` (auto rate-limit fallback) |
 
 ---
